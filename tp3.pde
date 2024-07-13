@@ -39,8 +39,8 @@ void draw() {
 
 boolean Click(){
  if(mousePressed){
-   return true;// funcion booleana devuelve un valor "Verdadero", se oprime el click del mouse
+   return true;// función booleana devuelve un valor "Verdadero", se oprime el click del mouse
  }
  else{
- return false;}// funcion booleana devuelve un valor "Falso",no se presiona el mouse, o se deja de oprimir el click
+ return false;}// función booleana devuelve un valor "Falso",no se presiona el mouse, o se deja de oprimir el click
  }
